@@ -1,2 +1,7 @@
 __pycache__/
 .cache/
+train_bkps/
+training-runs/
+datasets/
+results/
+.idea/
